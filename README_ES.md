@@ -30,6 +30,11 @@ Como Desarrollador Frontend Principal (Lead Frontend) para este proyecto, me enf
 * **Manipulación del DOM:** Creé interacciones dinámicas dentro de la aplicación sin depender de librerías externas, demostrando fundamentos sólidos en JavaScript puro.
 * **Validación de Formularios:** Implementé la lógica del lado del cliente para manejar las entradas del usuario y guiar el flujo de navegación.
 
+<img width="1915" height="955" alt="image" src="https://github.com/user-attachments/assets/54705b00-a1c0-47bd-bb9b-d0e2b758c790" />
+<img width="1919" height="998" alt="image" src="https://github.com/user-attachments/assets/092beefe-c588-4150-af63-ae823b7ae8aa" />
+<img width="1918" height="996" alt="image" src="https://github.com/user-attachments/assets/d38ff748-f230-4354-a1ac-0beffa9a6287" />
+
+
 ## 🔧 Cómo Ejecutarlo
 Dado que es una aplicación web estática, no requiere instalación de servidores:
 1.  Clona el repositorio.
