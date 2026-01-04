@@ -30,7 +30,11 @@ As the Lead Frontend Developer for this project, I focused on the core logic and
 * **Form Validation:** Implemented client-side logic to handle user inputs and guide the navigation flow.
 
 ## 📸 Screenshots
-*(Add a screenshot of your simulators here to show them off!)*
+<img width="1915" height="955" alt="image" src="https://github.com/user-attachments/assets/9a5ad6ba-0613-4614-8475-296fbaa66198" />
+
+<img width="1919" height="998" alt="image" src="https://github.com/user-attachments/assets/7abb65e8-8c20-4ed6-8620-b95044591170" />
+<img width="1918" height="996" alt="image" src="https://github.com/user-attachments/assets/4feb870c-bafa-4e2a-8f1c-b996b6062285" />
+
 
 ## 🔧 How to Run
 Since this is a static web application, no server installation is required:
